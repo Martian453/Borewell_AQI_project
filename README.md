@@ -15,7 +15,7 @@
 ---
 
 ## 📌 Dashboard Showcase
-c:\Users\Rohan\Pictures\Screenshots\Screenshot 2026-09-02 121705.png
+<img width="1920" height="1080" alt="Screenshot 2026-09-02 121705" src="https://github.com/user-attachments/assets/66c83d23-33f0-43bb-9676-7776a53a0583" />
 
 ---
 

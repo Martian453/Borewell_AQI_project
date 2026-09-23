@@ -15,24 +15,7 @@
 ---
 
 ## 📌 Dashboard Showcase
-
-<!-- PLACEHOLDER: Drop your UI screenshots here -->
-<!-- Example: ![Planet Insights Desktop Dashboard](public/screenshots/desktop-dashboard.png) -->
-
-```
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│  PLANET INSIGHTS [FERN: FERN-01]                              🟢 LIVE      12:30:00 PM │
-├────────────────────────────────┬───────────────────────────────┬──────────────────────┤
-│ 💧 AQUIFER MONITOR 1           │ 🌤️ SURROUNDING & FORECAST     │ 🧭 WIND COMPASS      │
-│    Level: 68% | Motor: OFF     │    26.0°C | 60% RH | AQI: 28  │    5 km/h WNW        │
-├────────────────────────────────┼───────────────────────────────┼──────────────────────┤
-│ 🧪 WQI & PUMP MONITOR          │ 🫁 AQI POLLUTANT LEVEL         │ ☀️ SUNRISE / SUNSET  │
-│    pH: 7.2 | TDS: 140 | 0.0A   │    PM2.5: 28 | CO2: 404       │    Daylight Arc Sync │
-├────────────────────────────────┴───────────────────────────────┼──────────────────────┤
-│ 📈 WATER QUALITY TREND (Auto-Cycle: Level → pH → TDS → Turbidity│ 🗺️ LIVE WIND MAP    │
-│    Interactive SVG Timeline & Sparkline Area                   │    Leaflet Stream    │
-└────────────────────────────────────────────────────────────────┴──────────────────────┘
-```
+c:\Users\Rohan\Pictures\Screenshots\Screenshot 2026-09-02 121705.png
 
 ---
 
